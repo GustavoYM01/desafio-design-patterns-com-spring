@@ -22,7 +22,7 @@ As classes e interfaces estão em <a href="https://github.com/GustavoYM01/desafi
 - Capacidade de abstração para reproduzir a solução proposta e implementar melhorias.
 
 ##  🔧 Tecnologias
-![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   
 ## 🔗 Referências
 - Videoaulas do Bootcamp na plataforma da DIO
